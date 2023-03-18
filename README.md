@@ -12,8 +12,12 @@
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
+
+
+
 ###Edit
-initial link of previous work done [](https://github.com/Aanu-TT/0-QR-code.git)
+
+initial link of previous work done ![Link](https://github.com/Aanu-TT/0-QR-code.git)
 
 
 ### Screenshot
@@ -22,8 +26,8 @@ initial link of previous work done [](https://github.com/Aanu-TT/0-QR-code.git)
 
 ### Links
 
-- Solution URL: ![](https://github.com/Aanu-TT/0_qr-code.git)
-- Live Site URL: ![](https://0-qr-code-aanutt.vercel.app/)
+- Solution URL: ![URL](https://github.com/Aanu-TT/0_qr-code.git)
+- Live Site URL: ![LIVE URL](https://0-qr-code-aanutt.vercel.app/)
 
 
 
