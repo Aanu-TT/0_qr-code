@@ -1,0 +1,73 @@
+/* CSS formatting */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* variable declaration */
+:root{
+    --White: hsl(0, 0%, 100%);
+    --Lightgray: hsl(212, 45%, 89%);
+    --Grayish-blue: hsl(220, 15%, 55%);
+    --Dark-blue: hsl(218, 44%, 22%);
+    --fontOutfit: 'outfit', san-serif;
+}
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color:  var(--Lightgray);
+    font-family: var(--fontOutfit);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* QR-CODE Container */
+main{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+    align-items: center;
+    border: 1px #ccc solid;
+    border-radius: 18px;
+    background-color: var(--White);
+    width: 20rem;
+    height: 31rem;
+    padding-top: 0.88rem;
+}
+
+.card_qr-code{
+    width: 90%;
+    border-radius: 10px;
+}
+.card_heading{
+    font-size: 1.4rem;
+    text-align: center;
+    align-self: center;
+    line-height: 1.74rem;
+    width: 90%;
+    color: var(--Dark-blue);
+    margin: 1.13rem 0;
+}
+.card_description{
+    width: 85%;
+    color: var(--Grayish-blue);
+    font-size: 1rem;
+    text-align: center;
+    align-self: center;
+    line-height: 1.2rem;
+    padding: 0.25rem;
+}
+
+/* Responsive design */
+
+@media only screen and (max-width: 440px) {
+    main{
+        width: 80%;
+    }
+}
