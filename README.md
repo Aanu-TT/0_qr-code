@@ -17,12 +17,11 @@
 ### Screenshot
 
 ![]![QR code desktop responsive](images/desktop-sln.JPG)
-![]![QR code mobile responsive](images/mobile-sln.png)
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/Aanu-TT/0_qr-code.git)
+- Live Site URL: [](https://0-qr-code-aanutt.vercel.app/)
 
 
 
@@ -58,8 +57,6 @@ Google is a coder's best friend. I'm eager to see how much knowledge I'll draw f
 
 
 ## Acknowledgments
-
-I'm proud to say I did this myself, I'm sure there'll be areas to correct, here and there. But as my first project, I'm satisfied.
 
 Frontend Mentor for creating this wonderful learning aid.
 
