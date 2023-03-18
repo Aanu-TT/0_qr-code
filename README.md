@@ -16,12 +16,12 @@
 
 ### Screenshot
 
-![]![QR code desktop responsive](images/desktop-sln.JPG)
+![QR code desktop responsive](images/desktop-sln.JPG)
 
 ### Links
 
-- Solution URL: [](https://github.com/Aanu-TT/0_qr-code.git)
-- Live Site URL: [](https://0-qr-code-aanutt.vercel.app/)
+- Solution URL: ![](https://github.com/Aanu-TT/0_qr-code.git)
+- Live Site URL: ![](https://0-qr-code-aanutt.vercel.app/)
 
 
 
