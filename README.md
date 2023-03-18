@@ -1,7 +1,8 @@
 # Frontend Mentor - QR code component solution
 
 ## Table of contents
-
+  
+  - [Edit](#edit)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
@@ -11,7 +12,8 @@
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-
+###Edit
+initial link of previous work done [](https://github.com/Aanu-TT/0-QR-code.git)
 
 
 ### Screenshot
